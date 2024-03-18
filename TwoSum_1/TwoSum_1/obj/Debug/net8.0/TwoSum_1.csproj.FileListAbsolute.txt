@@ -1,0 +1,14 @@
+C:\Users\gmont\OneDrive\Documents\LeetCode\TwoSum_1\TwoSum_1\bin\Debug\net8.0\TwoSum_1.exe
+C:\Users\gmont\OneDrive\Documents\LeetCode\TwoSum_1\TwoSum_1\bin\Debug\net8.0\TwoSum_1.deps.json
+C:\Users\gmont\OneDrive\Documents\LeetCode\TwoSum_1\TwoSum_1\bin\Debug\net8.0\TwoSum_1.runtimeconfig.json
+C:\Users\gmont\OneDrive\Documents\LeetCode\TwoSum_1\TwoSum_1\bin\Debug\net8.0\TwoSum_1.dll
+C:\Users\gmont\OneDrive\Documents\LeetCode\TwoSum_1\TwoSum_1\bin\Debug\net8.0\TwoSum_1.pdb
+C:\Users\gmont\OneDrive\Documents\LeetCode\TwoSum_1\TwoSum_1\obj\Debug\net8.0\TwoSum_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmont\OneDrive\Documents\LeetCode\TwoSum_1\TwoSum_1\obj\Debug\net8.0\TwoSum_1.AssemblyInfoInputs.cache
+C:\Users\gmont\OneDrive\Documents\LeetCode\TwoSum_1\TwoSum_1\obj\Debug\net8.0\TwoSum_1.AssemblyInfo.cs
+C:\Users\gmont\OneDrive\Documents\LeetCode\TwoSum_1\TwoSum_1\obj\Debug\net8.0\TwoSum_1.csproj.CoreCompileInputs.cache
+C:\Users\gmont\OneDrive\Documents\LeetCode\TwoSum_1\TwoSum_1\obj\Debug\net8.0\TwoSum_1.dll
+C:\Users\gmont\OneDrive\Documents\LeetCode\TwoSum_1\TwoSum_1\obj\Debug\net8.0\refint\TwoSum_1.dll
+C:\Users\gmont\OneDrive\Documents\LeetCode\TwoSum_1\TwoSum_1\obj\Debug\net8.0\TwoSum_1.pdb
+C:\Users\gmont\OneDrive\Documents\LeetCode\TwoSum_1\TwoSum_1\obj\Debug\net8.0\TwoSum_1.genruntimeconfig.cache
+C:\Users\gmont\OneDrive\Documents\LeetCode\TwoSum_1\TwoSum_1\obj\Debug\net8.0\ref\TwoSum_1.dll

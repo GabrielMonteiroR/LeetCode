@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gmont\\OneDrive\\Documents\\LeetCode\\TwoSum_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{479CEC82-44BA-44A2-B665-1A0F083933E7}|TwoSum_1\\TwoSum_1.csproj|c:\\users\\gmont\\onedrive\\documents\\leetcode\\twosum_1\\twosum_1\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479CEC82-44BA-44A2-B665-1A0F083933E7}|TwoSum_1\\TwoSum_1.csproj|solutionrelative:twosum_1\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479CEC82-44BA-44A2-B665-1A0F083933E7}|TwoSum_1\\TwoSum_1.csproj|c:\\users\\gmont\\onedrive\\documents\\leetcode\\twosum_1\\twosum_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479CEC82-44BA-44A2-B665-1A0F083933E7}|TwoSum_1\\TwoSum_1.csproj|solutionrelative:twosum_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "C:\\Users\\gmont\\OneDrive\\Documents\\LeetCode\\TwoSum_1\\TwoSum_1\\Solution.cs",
+              "RelativeDocumentMoniker": "TwoSum_1\\Solution.cs",
+              "ToolTip": "C:\\Users\\gmont\\OneDrive\\Documents\\LeetCode\\TwoSum_1\\TwoSum_1\\Solution.cs",
+              "RelativeToolTip": "TwoSum_1\\Solution.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T15:40:55.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gmont\\OneDrive\\Documents\\LeetCode\\TwoSum_1\\TwoSum_1\\Program.cs",
+              "RelativeDocumentMoniker": "TwoSum_1\\Program.cs",
+              "ToolTip": "C:\\Users\\gmont\\OneDrive\\Documents\\LeetCode\\TwoSum_1\\TwoSum_1\\Program.cs",
+              "RelativeToolTip": "TwoSum_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T15:40:30.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
